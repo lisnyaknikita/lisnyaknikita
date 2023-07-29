@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">
+   <img src="https://i.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.webp" width="300" alt="Greetings" />
+   <p>Hey! 👋</p>
+</h1>
 
-<!--
-**lisnyaknikita/lisnyaknikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Nikita, a 20 years old web developer from Ukraine
 
-Here are some ideas to get you started:
+## Skills
+- ⭐ HTML5, CSS3, Sass(SCSS)
+- ⭐ JavaScript and a little TypeScript
+- ⭐ ReactJS(Redux Toolkit + RTK Query)
+- ⭐ Experience with Tailwind CSS, Material UI, Chakra UI
+- ⭐ Git
+- ⭐ Figma
+- ⭐ English - B1(Intermediate)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts
+- [Email](lisnyaknikita@gmail.com)
+- [GitHub](https://github.com/lisnyaknikita)
+- [LinkedIn](https://www.linkedin.com/in/nlisnyak/)
+
